@@ -1,0 +1,12 @@
+{
+    "name": "composer/plagins",
+    "authors": [
+        {
+            "name": "atham",
+            "email": "1998atham@gmail.com"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
